@@ -31,6 +31,8 @@ Changes:
   `#198 <https://github.com/python-attrs/attrs/issues/198>`_
 - ``attr.Factory`` is hashable again.
   `#204 <https://github.com/python-attrs/attrs/issues/204>`_
+- Subclasses now can overwrite attribute definitions of their superclass.
+  `#221 <https://github.com/python-attrs/attrs/issues/221>`_
 
 
 ----
